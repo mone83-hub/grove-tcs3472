@@ -1,7 +1,7 @@
 {
-  "name": "test-mini",
+  "name": "grove-tcs3472",
   "version": "0.0.1",
-  "description": "Mini Test Erweiterung",
+  "description": "MakeCode Erweiterung für den Grove Farbsensor TCS3472",
   "dependencies": {
     "core": "*"
   },
