@@ -1,0 +1,13 @@
+{
+  "name": "test-mini",
+  "version": "0.0.1",
+  "description": "Mini Test Erweiterung",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "public": true
+}
